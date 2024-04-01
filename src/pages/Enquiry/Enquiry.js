@@ -64,7 +64,7 @@ function Enquiry() {
                             </div>
                         </div>
                         <div className='flex justify-center items-center mt-10'>
-                            <ReCAPTCHA sitekey='6LcVCaIpAAAAAH6-BQxK01V-jGkJwAEbwaTpR1M0' onChange={(val) => setCapVal(val)} />
+                            <ReCAPTCHA sitekey='6LefCKIpAAAAAGiNVJjLMVw9yCnB4pT2XnJH0U2x' onChange={(val) => setCapVal(val)} />
                         </div>
                         <div className='flex justify-center items-center m-5'>
                             <button type='submit' disabled={!capVal} className="px-4 py-2 font-bold text-white bg-indigo-500 rounded hover:bg-indigo-700 disabled:bg-gray-400" >Submit</button>
