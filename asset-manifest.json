@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TaurusCommercials/static/css/main.a4f505a1.css",
-    "main.js": "/TaurusCommercials/static/js/main.c770a0a8.js",
+    "main.js": "/TaurusCommercials/static/js/main.6291cff7.js",
     "static/js/453.12054274.chunk.js": "/TaurusCommercials/static/js/453.12054274.chunk.js",
     "static/media/ContactUs.jpg": "/TaurusCommercials/static/media/ContactUs.0179e9b02c5d892a3df8.jpg",
     "static/media/Enquiry.jpg": "/TaurusCommercials/static/media/Enquiry.9a4404334c43ba723ee1.jpg",
@@ -14,11 +14,11 @@
     "static/media/sail-logo.svg": "/TaurusCommercials/static/media/sail-logo.34ed54fe75afdb3143f33b585128eb40.svg",
     "index.html": "/TaurusCommercials/index.html",
     "main.a4f505a1.css.map": "/TaurusCommercials/static/css/main.a4f505a1.css.map",
-    "main.c770a0a8.js.map": "/TaurusCommercials/static/js/main.c770a0a8.js.map",
+    "main.6291cff7.js.map": "/TaurusCommercials/static/js/main.6291cff7.js.map",
     "453.12054274.chunk.js.map": "/TaurusCommercials/static/js/453.12054274.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4f505a1.css",
-    "static/js/main.c770a0a8.js"
+    "static/js/main.6291cff7.js"
   ]
 }
