@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TaurusCommercials/static/css/main.ff4b7556.css",
-    "main.js": "/TaurusCommercials/static/js/main.5bb8a6d6.js",
+    "main.css": "/TaurusCommercials/static/css/main.13362ef8.css",
+    "main.js": "/TaurusCommercials/static/js/main.28de2ef3.js",
     "static/js/453.12054274.chunk.js": "/TaurusCommercials/static/js/453.12054274.chunk.js",
     "static/media/ContactUs.jpg": "/TaurusCommercials/static/media/ContactUs.0179e9b02c5d892a3df8.jpg",
     "static/media/Enquiry.jpg": "/TaurusCommercials/static/media/Enquiry.9a4404334c43ba723ee1.jpg",
@@ -16,12 +16,12 @@
     "static/media/HomeHeader.jpeg": "/TaurusCommercials/static/media/HomeHeader.fb2530c29ba0551aa51e.jpeg",
     "static/media/sail-logo.svg": "/TaurusCommercials/static/media/sail-logo.34ed54fe75afdb3143f33b585128eb40.svg",
     "index.html": "/TaurusCommercials/index.html",
-    "main.ff4b7556.css.map": "/TaurusCommercials/static/css/main.ff4b7556.css.map",
-    "main.5bb8a6d6.js.map": "/TaurusCommercials/static/js/main.5bb8a6d6.js.map",
+    "main.13362ef8.css.map": "/TaurusCommercials/static/css/main.13362ef8.css.map",
+    "main.28de2ef3.js.map": "/TaurusCommercials/static/js/main.28de2ef3.js.map",
     "453.12054274.chunk.js.map": "/TaurusCommercials/static/js/453.12054274.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff4b7556.css",
-    "static/js/main.5bb8a6d6.js"
+    "static/css/main.13362ef8.css",
+    "static/js/main.28de2ef3.js"
   ]
 }
