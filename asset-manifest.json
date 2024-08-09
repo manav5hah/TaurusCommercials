@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7c6095fe.css",
+    "main.js": "./static/js/main.c4af3963.js",
+    "static/js/453.12054274.chunk.js": "./static/js/453.12054274.chunk.js",
+    "static/media/CRHeader.jpg": "./static/media/CRHeader.59d685ab83b4aa2d39ac.jpg",
+    "static/media/HRHeader.jpg": "./static/media/HRHeader.9c8b3611fb735576f9a3.jpg",
+    "static/media/logo.png": "./static/media/logo.01caeaa6908c5fd9cd1b.png",
+    "static/media/AboutUs.jpg": "./static/media/AboutUs.f582d7e30e0fb20adf11.jpg",
+    "static/media/ContactUs.jpg": "./static/media/ContactUs.f582d7e30e0fb20adf11.jpg",
+    "static/media/Enquiry.jpg": "./static/media/Enquiry.f582d7e30e0fb20adf11.jpg",
+    "index.html": "./index.html",
+    "main.7c6095fe.css.map": "./static/css/main.7c6095fe.css.map",
+    "main.c4af3963.js.map": "./static/js/main.c4af3963.js.map",
+    "453.12054274.chunk.js.map": "./static/js/453.12054274.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c6095fe.css",
+    "static/js/main.c4af3963.js"
+  ]
+}

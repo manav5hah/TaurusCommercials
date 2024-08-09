@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/TaurusCommercials/static/css/main.5802812e.css",
+    "main.js": "/TaurusCommercials/static/js/main.27dcff51.js",
+    "static/js/453.12054274.chunk.js": "/TaurusCommercials/static/js/453.12054274.chunk.js",
+    "static/media/ContactUs.jpg": "/TaurusCommercials/static/media/ContactUs.0179e9b02c5d892a3df8.jpg",
+    "static/media/Enquiry.jpg": "/TaurusCommercials/static/media/Enquiry.9a4404334c43ba723ee1.jpg",
+    "static/media/AboutUs.jpg": "/TaurusCommercials/static/media/AboutUs.f1e3f6efe618b2df1fca.jpg",
+    "static/media/CRHeader.jpg": "/TaurusCommercials/static/media/CRHeader.59d685ab83b4aa2d39ac.jpg",
+    "static/media/HRHeader.jpeg": "/TaurusCommercials/static/media/HRHeader.b15fe13e799f4371cb8b.jpeg",
+    "static/media/HomeLeft.jpg": "/TaurusCommercials/static/media/HomeLeft.4e697da73430f6dd88f1.jpg",
+    "static/media/shreyasbhai-image.png": "/TaurusCommercials/static/media/shreyasbhai-image.9e80568eac8939f88e90.png",
+    "static/media/sunilbhai-image.png": "/TaurusCommercials/static/media/sunilbhai-image.2cd03f4397c7000da0ed.png",
+    "static/media/logo.png": "/TaurusCommercials/static/media/logo.01caeaa6908c5fd9cd1b.png",
+    "static/media/SailInfinity.jpeg": "/TaurusCommercials/static/media/SailInfinity.19729dd45c2098551e5f.jpeg",
+    "static/media/HomeHeader.jpeg": "/TaurusCommercials/static/media/HomeHeader.fb2530c29ba0551aa51e.jpeg",
+    "static/media/sail-logo.svg": "/TaurusCommercials/static/media/sail-logo.34ed54fe75afdb3143f33b585128eb40.svg",
+    "index.html": "/TaurusCommercials/index.html",
+    "main.5802812e.css.map": "/TaurusCommercials/static/css/main.5802812e.css.map",
+    "main.27dcff51.js.map": "/TaurusCommercials/static/js/main.27dcff51.js.map",
+    "453.12054274.chunk.js.map": "/TaurusCommercials/static/js/453.12054274.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5802812e.css",
+    "static/js/main.27dcff51.js"
+  ]
+}
