@@ -13,10 +13,10 @@ import {
   
   function Main() {
     return (
-        <Router basename={process.env.PUBLIC_URL}>
+        <Router>
           <AppBar />
         <Routes>
-          <Route excat path='/' element={<Home />} ></Route>
+          <Route path='/' element={<Home />} ></Route>
           <Route path='/about-us' element={<AboutUs />} ></Route>
           <Route path='/contact-us' element={<ContactUs />} ></Route>
           <Route path='/enquiry' element={<Enquiry />}></Route>
