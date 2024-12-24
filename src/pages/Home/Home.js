@@ -9,18 +9,18 @@ function Home() {
             <div className="bg-[url('./pages/Home/HomeHeader.jpeg')] bg-center bg-no-repeat relative bg-cover h-[20rem] flex flex-col-reverse">
                 <div className='text-white font-extrabold text-center text-2xl p-2'>SAIL TMT Bars: Ab Nishchint Ho Jayein</div>
             </div>
-            <div className='flex flex-col md:flex-row sm:flex-row my-8 lg:px-8 px-7'>
+            <div className='flex flex-col md:flex-row sm:flex-row my-8 lg:px-8 px-7 mr-3'>
                 <div className='w-full lg:flex justify-center mx-3'>
-                    <img src={HomeSide} className='w-[30rem]' />
+                    <img src={HomeSide} />
                 </div>
                 <div className='w-full my-4 mx-3 text-lg font-normal text-grey-500 lg:text-lg text-justify'>
                     SAIL TMT bars are premium quality construction materials manufactured by Steel Authority of India Limited (SAIL), one of the largest steel-making companies in India. Engineered through an advanced Thermo Mechanical Treatment process, SAIL TMT bars provide exceptional strength, durability, and resistance to corrosion, making them the ideal choice for all types of construction projects. As an authorized distributor for SAIL SEQR TMT Fe550D, we ensure that you receive genuine, high-quality TMT bars that meet your construction needs. Our commitment to quality and customer satisfaction makes us your trusted partner in building strong and safe structures.
                 </div>
             </div>
-            <div className='my-6 text-xl font-extrabold text-[#37427C] lg:text-lg lg:px-8 px-7'>
+            <div className='my-6 mx-3 text-xl font-extrabold text-[#37427C] lg:text-lg lg:px-8 px-7'>
                 Why Choose SAIL TMT Bars?
             </div>
-            <ol className='my-4 lg:px-14 px-7 text-justify list-decimal'>
+            <ol className='my-4 mx-3 lg:px-14 px-7 text-justify list-decimal'>
                 <li className='my-1'><span className='text-[#37427C] font-bold'>Superior Strength:</span> SAIL TMT bars are known for their high tensile strength, ensuring that your structures can withstand heavy loads and stresses.</li>
                 <li className='my-1'><span className='text-[#37427C] font-bold'>Enhanced Flexibility:</span> The unique manufacturing process of SAIL TMT bars imparts excellent ductility and bend ability, allowing for easy shaping and use in various construction applications.</li>
                 <li className='my-1'><span className='text-[#37427C] font-bold'>Corrosion Resistance:</span> These bars are treated to resist corrosion, making them suitable for use in humid and coastal areas, as well as for long-lasting durability in various environmental conditions.</li>
@@ -31,7 +31,7 @@ function Home() {
             <div className='my-6 text-xl font-extrabold text-[#37427C] lg:text-lg lg:px-8 px-7 text-center'>
                 Rationalised Sizes of SAIL SeQR TMT bars
             </div>
-            <div className='my-4 text-lg font-normal text-grey-500 lg:text-lg lg:px-8 px-7 text-justify'>
+            <div className='my-4 mx-3 text-lg font-normal text-grey-500 lg:text-lg lg:px-8 px-7 text-justify'>
             <div className='flex flex-col md:flex-row sm:flex-row'>
                 <table className='w-full m-auto py-5'>
                     <thead className='bg-gray-50 border-b-2 border-gray-200'>
@@ -75,10 +75,10 @@ function Home() {
             <div className='my-6 text-xl font-extrabold text-[#37427C] lg:text-lg lg:px-8 px-7 text-center'>
                 SAIL SEQR Fe550D TMT Bars: Chemical and Mechanical Properties
             </div>
-            <div className='text-lg font-bold text-[#37427C] my-2 lg:px-8 px-7'>
+            <div className='text-lg font-bold text-[#37427C] my-2 lg:px-8 px-7 mx-3'>
                 Chemical Properties (Ladle analysis in %):
             </div>
-            <div className='my-4 text-lg font-normal text-grey-500 lg:text-lg lg:px-8 px-7 text-justify overflow-x-auto'>
+            <div className='my-4 text-lg mx-3 font-normal text-grey-500 lg:text-lg lg:px-8 px-7 text-justify overflow-x-auto'>
                 <table className="w-full">
                     <thead className='bg-gray-50 border-b-2 border-gray-200'>
                         <tr>
@@ -116,10 +116,10 @@ function Home() {
                     </tbody>
                 </table>
             </div>
-            <div className='text-lg font-bold text-[#37427C] my-2 lg:px-8 px-7'>
+            <div className='text-lg font-bold text-[#37427C] my-2 lg:px-8 px-7 mx-3'>
                 Mechanical Properties:
             </div>
-            <div className='my-4 text-lg font-normal text-grey-500 lg:text-lg lg:px-8 px-7 text-justify overflow-x-auto'>
+            <div className='my-4 text-lg font-normal text-grey-500 lg:text-lg lg:px-8 px-7 mx-3 text-justify overflow-x-auto'>
                 <table className="w-full">
                     <thead className='bg-gray-50 border-b-2 border-gray-200'>
                         <tr>
@@ -184,7 +184,7 @@ function Home() {
                     </tbody>
                 </table>
             </div>
-            <div className='w-full my-4 text-lg font-normal text-grey-500 lg:text-lg  text-justify px-7'>
+            <div className='my-4 text-lg font-normal text-grey-500 lg:text-lg  text-justify px-7 mx-4'>
                 These properties ensure that SAIL SEQR Fe550D TMT bars provide the highest level of performance, reliability, and safety for your construction projects.
             </div>
 
