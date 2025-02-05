@@ -1,5 +1,5 @@
 import { 
-    BrowserRouter as Router,
+    HashRouter as Router,
     Routes,
     Route
    } from "react-router-dom";
@@ -13,7 +13,7 @@ import {
   
   function Main() {
     return (
-        <Router>
+        <Router basename="/">
           <AppBar />
         <Routes>
           <Route path='/' element={<Home />} ></Route>
