@@ -7,7 +7,7 @@ function Home() {
     return (
         <div>
             <div className="bg-[url('./pages/Home/HomeHeader.jpeg')] bg-center bg-no-repeat relative bg-cover h-[20rem] flex flex-col-reverse">
-                <div className='text-white font-extrabold text-center text-2xl p-2'>SAIL TMT Bars: Ab Nishchint Ho Jayein</div>
+                <title className='text-white font-extrabold text-center text-2xl p-2'>SAIL TMT Bars: Ab Nishchint Ho Jayein</title>
             </div>
             <div className='flex flex-col md:flex-row sm:flex-row my-8 lg:px-8 px-7 mr-3'>
                 <div className='w-full lg:flex justify-center mx-3'>

@@ -2,7 +2,7 @@ import * as React from 'react';
 function ContactUs() {
     return (
         <div>
-            <div className="bg-[url('./pages/ContactUs/ContactUs.jpg')] bg-center bg-no-repeat relative bg-cover h-[20rem] flex flex-col-reverse">
+            <div className="bg-[url('./pages/contact-us/ContactUs.jpg')] bg-center bg-no-repeat relative bg-cover h-[20rem] flex flex-col-reverse">
                 <div className='text-white font-extrabold text-center text-2xl p-2'>Contact Us</div>
             </div>
             <div className='flex flex-col md:flex-row sm:flex-row my-8'>

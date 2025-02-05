@@ -32,8 +32,8 @@ function Enquiry() {
 
     return (
         <div>
-            <div className="bg-[url('./pages/Enquiry/Enquiry.jpg')] bg-center bg-no-repeat relative bg-cover h-[20rem] flex flex-col-reverse">
-                <div className='text-white font-extrabold text-center text-2xl p-2'>Enquiry</div>
+            <div className="bg-[url('./pages/enquiry/Enquiry.jpg')] bg-center bg-no-repeat relative bg-cover h-[20rem] flex flex-col-reverse">
+                <title className='text-white font-extrabold text-center text-2xl p-2'>Enquiry</title>
             </div>
             <form className='m-5 flex justify-center items-center' onSubmit={Inquire}>
                 <div className="space-12 w-1/2">

@@ -3,12 +3,12 @@ import {
     Routes,
     Route
    } from "react-router-dom";
-  import HRSheets from "./HRSheets/HRSheets";
-  import CRSheets from "./CRSheets/CRSheets";
-  import ContactUs from "./ContactUs/ContactUs";
-  import AboutUs from "./AboutUs/AboutUs";
-  import Enquiry from "./Enquiry/Enquiry";
-  import AppBar from "./AppBar/AppBar";
+  import HRSheets from "./hr-sheets/hr-sheets";
+  import CRSheets from "./cr-sheets/cr_sheets";
+  import ContactUs from "./contact-us/contact-us";
+  import AboutUs from "./about-us/about-us";
+  import Enquiry from "./enquiry/enquiry";
+  import AppBar from "./app-bar/app-bar";
   import Home from "./Home/Home";
   
   function Main() {

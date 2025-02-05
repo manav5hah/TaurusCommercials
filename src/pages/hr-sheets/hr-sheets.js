@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function HRSheets() {
     return (
         <div>
-            <div className="bg-[url('./pages/HRSheets/HRHeader.jpeg')] bg-center bg-no-repeat relative bg-cover h-[20rem] flex flex-col-reverse">
+            <div className="bg-[url('./pages/hr-sheets/HRHeader.jpeg')] bg-center bg-no-repeat relative bg-cover h-[20rem] flex flex-col-reverse">
                 <div className='text-white font-extrabold text-center text-2xl p-2'>Hot Rolled Coil/Sheet (HRC)</div>
             </div>
             <div className='my-4 text-lg font-normal text-grey-500 lg:text-lg lg:px-8 px-7 text-justify'>
