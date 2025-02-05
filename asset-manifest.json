@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c95cff1e.css",
-    "main.js": "/static/js/main.9319984d.js",
+    "main.css": "/static/css/main.ea630592.css",
+    "main.js": "/static/js/main.2b49ef13.js",
     "static/js/453.12054274.chunk.js": "/static/js/453.12054274.chunk.js",
     "static/media/ContactUs.jpg": "/static/media/ContactUs.0179e9b02c5d892a3df8.jpg",
     "static/media/Enquiry.jpg": "/static/media/Enquiry.9a4404334c43ba723ee1.jpg",
@@ -16,12 +16,12 @@
     "static/media/HomeHeader.jpeg": "/static/media/HomeHeader.fb2530c29ba0551aa51e.jpeg",
     "static/media/sail-logo.svg": "/static/media/sail-logo.34ed54fe75afdb3143f33b585128eb40.svg",
     "index.html": "/index.html",
-    "main.c95cff1e.css.map": "/static/css/main.c95cff1e.css.map",
-    "main.9319984d.js.map": "/static/js/main.9319984d.js.map",
+    "main.ea630592.css.map": "/static/css/main.ea630592.css.map",
+    "main.2b49ef13.js.map": "/static/js/main.2b49ef13.js.map",
     "453.12054274.chunk.js.map": "/static/js/453.12054274.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c95cff1e.css",
-    "static/js/main.9319984d.js"
+    "static/css/main.ea630592.css",
+    "static/js/main.2b49ef13.js"
   ]
 }
