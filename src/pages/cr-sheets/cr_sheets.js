@@ -1,8 +1,88 @@
 import * as React from 'react';
 import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet';
 
 function CRSheets() {
     return (
+        <>
+        <Helmet>
+        {/* Primary SEO */}
+        <title>Cold Rolled Steel Sheets & Coils (CRC) | SAIL IS 513 Distributors Gujarat | Taurus Commercials Pvt Ltd</title>
+        <meta name="description" content="Buy high-quality cold rolled steel sheets and coils (IS 513 CR2/CR3) from Taurus Commercials Pvt Ltd, an authorized SAIL distributor in Gujarat. CRCs for automotive, construction, appliance manufacturing, and precision engineering." />
+        <meta name="keywords" content="Cold rolled steel Gujarat, CRC coil supplier, IS 513 CR2 CR3, SAIL CRC Ahmedabad, cold rolled coil sheet, Taurus Commercials steel, automotive steel Gujarat" />
+        <meta name="robots" content="index, follow" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="theme-color" content="#003366" />
+
+        {/* Open Graph */}
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://taurus.ind.in/cr-sheets" />
+        <meta property="og:title" content="Cold Rolled Steel Sheets & Coils CRC | SAIL IS 513 Distributor Gujarat" />
+        <meta property="og:description" content="Taurus Commercials Pvt Ltd supplies IS 513 CR2/3 cold rolled coils and sheets. Reliable SAIL distributor Gujarat. Ideal for automotive, appliances, & construction." />
+        <meta property="og:image" content="https://taurus.ind.in/og-image-crsheets.webp" />
+        <meta property="og:image:alt" content="SAIL CRC steel coils and sheets in warehouse Taurus Commercials" />
+        <meta property="og:site_name" content="Taurus Commercials Pvt Ltd" />
+        <meta property="og:locale" content="en_IN" />
+
+        {/* Twitter Card */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:url" content="https://taurus.ind.in/cr-sheets" />
+        <meta name="twitter:title" content="Cold Rolled Sheets & Coils | IS 513 CRC Distributor | Taurus Commercials Gujarat" />
+        <meta name="twitter:description" content="Leading supplier of IS 513 CR2/CR3 CRC sheets and coils in Gujarat. Get SAIL certified steel for industry and manufacturing. Enquire now." />
+        <meta name="twitter:image" content="https://taurus.ind.in/og-image-crsheets.webp" />
+        <meta name="twitter:image:alt" content="Cold Rolled Steel Sheets & Coils Gujarat" />
+
+        {/* Canonical URL */}
+        <link rel="canonical" href="https://taurus.ind.in/cr-sheets" />
+
+        {/* Favicon and Manifest */}
+        <link rel="icon" href="/favicon.ico" />
+        <link rel="manifest" href="/manifest.json" />
+
+        {/* Structured Data: Local Business schema */}
+        <script type="application/ld+json">{JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "LocalBusiness",
+          "name": "Taurus Commercials Pvt Ltd",
+          "image": "https://taurus.ind.in/og-image-crsheets.webp",
+          "@id": "https://taurus.ind.in/cr-sheets",
+          "url": "https://taurus.ind.in/cr-sheets",
+          "telephone": "+91-8758588781", // Replace with your contact
+          "priceRange": "$$",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "B801, Nirman Complex",
+            "addressLocality": "Ahmedabad",
+            "postalCode": "380009",
+            "addressRegion": "GJ",
+            "addressCountry": "IN"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 23.0225,
+            "longitude": 72.5714
+          },
+          "sameAs": [
+            "https://www.facebook.com/YourPage",
+            "https://www.instagram.com/YourPage",
+            "https://www.linkedin.com/company/YourPage"
+          ],
+          "openingHoursSpecification": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday"
+            ],
+            "opens": "10:00",
+            "closes": "19:00"
+          },
+          "description": "Authorized SAIL distributor for IS 513 CR2/3 cold rolled steel sheets and coils, serving Gujarat industries for automotive, manufacturing, and construction applications."
+        })}</script>
+      </Helmet>
         <div>
             <div className="bg-[url('./pages/cr-sheets/CRHeader.jpg')] bg-center bg-no-repeat relative bg-cover h-[20rem] flex flex-col-reverse">
                 <div className='text-white font-extrabold text-center text-2xl p-2'>Cold Rolled Coil/Sheet (CRC)</div>
@@ -134,6 +214,7 @@ function CRSheets() {
             <Link to="/enquiry" className="px-4 py-2 my-3 font-bold text-white bg-indigo-500 rounded hover:bg-indigo-700" >Enquiry</Link>
             </div>
         </div>
+        </>
     );
 }
 
